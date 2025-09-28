@@ -1,7 +1,7 @@
 # air_quality_prediction
 The diploma project under the topic “Development of Machine Learning Models for
-Air Quality Forecasting Based on Historical and Meteorological Data” was written by
-Dana Damenova, Amir Abdykarimov, and Guldana Shukerbek, Dana Damenova and Amir Abdykarimov students of the Big Data
+Air Quality Forecasting Based on Historical and Meteorological Data” was written by Guldana Shukerbek
+Dana Damenova and Amir Abdykarimov, Dana Damenova and Amir Abdykarimov students of the Big Data
 Analysis program at Astana IT University.
 
 This study uses six main algorithms—Linear Regression, ElasticNet, Random Forest,
